@@ -1,10 +1,10 @@
 // import React from 'react'
 // import { Children } from 'react/cjs/react.production.min'
 
-const Home = () => {
+const Home = ( ) => {
   return (
     <div>
-      HOME
+      {/* HOME */}
     </div>
   ) 
 }
